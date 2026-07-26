@@ -5,7 +5,7 @@
 **Assigned classification task:** Psoriasis vs Eczema
 
 THE STREAMLIT LINK 
-"https://alphabet-relieving-footrest.ngrok-free.dev
+["https://alphabet-relieving-footrest.ngrok-free.dev](https://psoriasisvseczema-qnysot2vbvbbqfuktglzpz.streamlit.app/)
 
 ## 1. Project Overview
 
