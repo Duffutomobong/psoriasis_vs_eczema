@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Dataset (too large for GitHub; document source in README instead)
+data/train/*
+data/val/*
+data/test/*
+!data/train/.gitkeep
+!data/val/.gitkeep
+!data/test/.gitkeep
+
+# OS files
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
