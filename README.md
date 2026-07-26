@@ -4,6 +4,9 @@
 **Task:** Cloud Computing and AI Model Deployment for Engineering Applications
 **Assigned classification task:** Psoriasis vs Eczema
 
+THE STREAMLIT LINK 
+"https://alphabet-relieving-footrest.ngrok-free.dev
+
 ## 1. Project Overview
 
 This project designs, trains, evaluates, and deploys a Convolutional Neural
