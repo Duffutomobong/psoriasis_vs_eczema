@@ -127,9 +127,13 @@ upload a skin lesion image, and view the prediction.
 
 | Name | Registration Number | GitHub Username | Contribution |
 |------|---------------------|------------------|---------------|
-| _Add name_ | _Add reg. no._ | _Add username_ | Dataset prep / model training |
-| _Add name_ | _Add reg. no._ | _Add username_ | App development / deployment |
-| _Add name_ | _Add reg. no._ | _Add username_ | Evaluation / documentation |
+| UBONG RICHMAN JACKSON | 22/EG/AE/782 | ubongjackson244 | Dataset prep / model training |
+| NKANTA ANIEKAN UDUAKOBONG | 22/EG/AE/822 | Nkantaaniekan0-ux | App development / deployment |
+| INYANG, BLESSING GABRIEL | 23/EG/AE/012 | Inyangblessinggabriel-create | Evaluation / documentation |
+| SAMUEL SUCCESS MITONITEH | 22/EG/AE/2112 | wealthconcept | Evaluation / documentation |
+| MKPUFIN, EMMANUEL ODOHOE | 23/EG/AE/022 | emmanuelmkpufin55 | Evaluation / documentation |
+| ESSIEN, ANTHONY KUFREABASI | 23/EG/AE/042 | Aessien556-byte | Evaluation / documentation |
+| VICTOR ESTHER HAPPINESS | 22/EG/AE/792 | esthervictor7731-cpu | Evaluation / documentation |
 
 ## 10. Disclaimer
 
